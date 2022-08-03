@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(149, 184, 169);
+}
+
+.tlacitko {
+    background-color: rgb(100, 127, 116);
+    color: white;
+}
+
+.hlavni {
+    font-size: 60px;
+    background-color: rgb(100, 127, 116);
+    text-align: center;
+    color: white;
+    border: 2px solid white;
+}
+
+.dveVeci {
+    text-align: center;
+}
